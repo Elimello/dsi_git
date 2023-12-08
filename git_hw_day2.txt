@@ -1,10 +1,5 @@
-bb2a7cbb98387c330e88ff069b1717a62edaa373 ok
-e940625898609e41d52c086a578fa86a1e65a6b5 test
-2ca03be549bd947876b1dfa36cacd242c0189a46 changed name of file
-c76aecaf8d5a323624ff873a2c9dc16cd3393c2a test
-fcd5c84c975c400f45e16e818411cb842f57c9f5 Adding a long message for practice purposes ONLY.
-8389f4f3505577970642da64c92431ff659de46a ok
-c70aee2362d2c39b62e45e2990380a5ab29b5432 read_me
-27784850f6700b9b0ec9a46605c9edff18d2b237 text_file
-0b70c80acc0fb73d324ea9a8dfeb282b31f3293b test
-014103bb55e82bc4d1c69f2939a3baec053ea31d educational_material
+Elimello - homework_day2
+Elimello - ok
+Elimello - ok
+Elimello - ok
+Eliezer Molina Mello - test
